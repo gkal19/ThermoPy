@@ -1,4 +1,6 @@
 # ThermoPy
 Conversão de Temperaturas
 
-"Re-utilizando" o código de um [Conversor de Temperaturas](https://github.com/gkal19/Thermo) que eu havia feito há um tempo atrás.
+> Esta é a versão em Python 3.6 do meu código que estava em [JavaScript](https://github.com/gkal19/Thermo).
+
+Faça Conversão de Temperaturas, sejam elas Celsius, Fahrenheit e Kelvin com o Thermo.
